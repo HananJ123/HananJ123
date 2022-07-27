@@ -13,4 +13,7 @@
     <img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="Twitter Badge" class="social youtube" height="40" width="40"/>
   </a>
 </div>
+
+<div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=HananJ123&style=flat-square&color=blue" align="center" alt=""/>
+</div>
