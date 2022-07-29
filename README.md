@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/avatars/695334442864214056/748988adf7df935349c52820ac976ccf.webp?size=2048" width="100"/>
+  <img src="[https://cdn.discordapp.com/avatars/695334442864214056/748988adf7df935349c52820ac976ccf.webp](https://cdn.discordapp.com/attachments/1002323764647841903/1002323805722640425/Medusa.png)?size=2048" width="100"/>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://musik-kid.000webhostapp.com/">
+  <a href="https://musikkid.studio/">
     <img src="https://cdn.discordapp.com/attachments/999428266710552606/1001928871047860256/musik_kid.jpeg" class="rounded-circle social" width="40px" height="40px" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC170IwAmZKTMgIA2HT_5IaQ">
