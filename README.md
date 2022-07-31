@@ -12,8 +12,11 @@
   <a href="https://www.instagram.com/hanan_jbr_/">
     <img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="Twitter Badge" class="social youtube" height="40" width="40"/>
   </a>
-  <a href="https://www.snapchat.com/add/der_hanan?share_id=MkU3MDc3NDEtRjcxQi00Q0ExLUE5MUItNUFFODkxQ0VGRDdB&locale=de_DE">
+  <a href="https://discordapp.com/users/695334442864214056">
     <img src="https://cdn.discordapp.com/attachments/833708458824957972/1003280035442065478/Snap.png" alt="Snap" class="social youtube" height="40" width="40"/>
+  </a>
+   <a href="https://www.snapchat.com/add/der_hanan?share_id=MkU3MDc3NDEtRjcxQi00Q0ExLUE5MUItNUFFODkxQ0VGRDdB&locale=de_DE">
+    <img src="https://cdn.discordapp.com/attachments/999428266710552606/1003285549139898428/kisspng-discord-computer-icons-android-challenge-5ad920f517ddb6.2835550815241791890978.png" alt="Snap" class="social youtube" height="40" width="40"/>
   </a>
 </div>
 <div align="center">
